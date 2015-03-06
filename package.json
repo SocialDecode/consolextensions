@@ -1,10 +1,10 @@
 {
   "name": "console-extensions",
-  "version": "0.15.305-a",
+  "version": "0.15.305-b",
   "description": "A nice set of extensions for the console.log",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",

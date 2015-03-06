@@ -1,0 +1,28 @@
+{
+  "name": "console-extensions",
+  "version": "0.15.305-a",
+  "description": "A nice set of extensions for the console.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SocialDecode/consolextensions.git"
+  },
+  "keywords": [
+    "consolelog",
+    "colors",
+    "timers"
+  ],
+  "author": "SocialDecode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SocialDecode/consolextensions/issues"
+  },
+  "homepage": "https://github.com/SocialDecode/consolextensions",
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "consolecolors": "^0.33.2-b"
+  }
+}
